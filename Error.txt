@@ -1,0 +1,2 @@
+﻿文件下载网址  =>  文件保存路径
+http://www.txms8.com/Templates/cn/images/ri.jpg  =>  G:\tools\单页扒站小工具\www.txms8.com\images\ri.jpg
